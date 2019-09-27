@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/icalepcs2019/static/css/main.4ccfe1da.chunk.css",
+    "main.js": "/icalepcs2019/static/js/main.ed0c886b.chunk.js",
+    "main.js.map": "/icalepcs2019/static/js/main.ed0c886b.chunk.js.map",
+    "runtime-main.js": "/icalepcs2019/static/js/runtime-main.c24d4e85.js",
+    "runtime-main.js.map": "/icalepcs2019/static/js/runtime-main.c24d4e85.js.map",
+    "static/js/2.992ef8d3.chunk.js": "/icalepcs2019/static/js/2.992ef8d3.chunk.js",
+    "static/js/2.992ef8d3.chunk.js.map": "/icalepcs2019/static/js/2.992ef8d3.chunk.js.map",
+    "index.html": "/icalepcs2019/index.html",
+    "precache-manifest.4373bac499239166f1e5803e85207c37.js": "/icalepcs2019/precache-manifest.4373bac499239166f1e5803e85207c37.js",
+    "service-worker.js": "/icalepcs2019/service-worker.js",
+    "static/css/main.4ccfe1da.chunk.css.map": "/icalepcs2019/static/css/main.4ccfe1da.chunk.css.map"
+  }
+}
