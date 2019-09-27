@@ -1,3 +1,7 @@
+# ICALEPCS 2019 Demo Application
+
+This application is demo of a simple React component and data-binding between JSX elements.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
