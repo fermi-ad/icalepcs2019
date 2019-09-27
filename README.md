@@ -2,6 +2,8 @@
 
 This application is demo of a simple React component and data-binding between JSX elements.
 
+Demo: [https://fermi-controls.github.io/icalepcs2019/](https://fermi-controls.github.io/icalepcs2019/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
