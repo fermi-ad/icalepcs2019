@@ -1,0 +1,18 @@
+.reactiveInput {
+    display: grid;
+    justify-content: center;
+    row-gap: 1rem;
+}
+
+label {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+input {
+    font-size: 1.6rem;
+}
+
+.invalid {
+    color: red;
+}
